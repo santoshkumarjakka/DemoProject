@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\DemoApp\\linkedin-sdk\\build\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\santosh\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\f9533f6c991712e6e38b68b293b8eee3\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\DemoApp\\linkedin-sdk\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\santosh\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\f9533f6c991712e6e38b68b293b8eee3\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\DemoApp\\linkedin-sdk\\build\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\santosh\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\f9533f6c991712e6e38b68b293b8eee3\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\DemoApp\\linkedin-sdk\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\santosh\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\f9533f6c991712e6e38b68b293b8eee3\\res\\drawable\\notification_bg_low.xml"
+    }
+]

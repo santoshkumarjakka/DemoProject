@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\DemoApp\\linkedin-sdk\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\santosh\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\f9533f6c991712e6e38b68b293b8eee3\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\DemoApp\\linkedin-sdk\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\santosh\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\f9533f6c991712e6e38b68b293b8eee3\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\DemoApp\\linkedin-sdk\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\santosh\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\f9533f6c991712e6e38b68b293b8eee3\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\DemoApp\\linkedin-sdk\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\DemoApp\\linkedin-sdk\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\DemoApp\\linkedin-sdk\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\santosh\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\f9533f6c991712e6e38b68b293b8eee3\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\DemoApp\\linkedin-sdk\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\santosh\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\f9533f6c991712e6e38b68b293b8eee3\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    }
+]

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">DEMOAPP</string>
+    <string name="sign_in_with_linkedin">Sign In with LinkedIn</string>
+    <string name="save_details_db">Save Details In db</string>
+
+    <string name="logout">Logout</string>
+
+    <string name="open_my_profile">Open My Profile</string>
+
+    <string name="open_others_profile">Open Others Profile</string>
+
+    <string name="share">Share</string>
+    <string name="action_save">Save</string>
+</resources>
